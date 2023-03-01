@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969837137978",
+    "project_id": "fir-auth-b7d90",
+    "storage_bucket": "fir-auth-b7d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969837137978:android:e9dacad7e01881c0dda503",
+        "android_client_info": {
+          "package_name": "com.example.calorie_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969837137978-mcc39j11ctsmj0ierm9r558te7ve4bu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUb-x4dvp5yE70Ri7vD66CPg8DUHo4RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969837137978-mcc39j11ctsmj0ierm9r558te7ve4bu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
